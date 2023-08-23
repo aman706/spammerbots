@@ -3,7 +3,8 @@ FROM debian:latest
 ##Docker work
 RUN apt update && apt upgrade -y
 RUN apt install git curl python3-pip -y
-
+RUN pip3 install -U pip
+RUN python3 -m pip install --user --upgrade pipx 
 
 ## app
 RUN mkdir /app/
