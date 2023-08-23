@@ -7,3 +7,4 @@ cryptg
 psycopg2==2.9.1
 python-dotenv
 pipx
+django-sortedm2m
