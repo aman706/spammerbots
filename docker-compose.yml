@@ -7,8 +7,8 @@ services:
       API_HASH: 5a2684512006853f2e48aca9652d83ea  # defaults to None
       HNDLR: .
       String_Session01: 1BVtsOK4BuwVGQS3cayxCqP9JiZWJvvhDFK_GsCMgg4Ku3Kh-1EGtLmnE-pqMxsgc3dk2oDob4NyZphIY4DUpRgtF3Bq9SBmfjOQb-_eg5N1Y0EAtPVng6D5v0kkfNLZ6x25k-ZC9WWXWyskndoYVsLflXEVMmdZQ8Si0zR9d-4crObQQmO_47mHeq9upPiqNQV5FLMxkcBIIeqnj0U0vQS0Ihz3qQyMThO2oJnF_xO6898OcI66pD6t6KhEipCDem8x-lzP4oMhiMd2afAcuaoRuO8cE0SvInNBOGUK7V2EKJoWoUvHYK_Y3mEgAXB7k7LDqYtzk9WldMS1UKJi35KiTeAnSSRg=
-      SUDO_USERS:
-      DEV_USERS:
+      SUDO_USERS: 5904838932
+      DEV_USERS: 5904838932
       ENV: Anything 
       ALIVE_MESSAGE: "Hey i am alive" 
       OKTETO_TOKEN: ZtjSMiXlENXNEmiDDH1qLneaVvMSbhHPzw4nloFagKBaaHBu
